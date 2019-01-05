@@ -1,5 +1,5 @@
 
-# Cheat Sheets recopilation
+# Cheat Sheets
 
 <div id="table-of-contents">
  
