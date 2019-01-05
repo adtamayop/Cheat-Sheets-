@@ -1,8 +1,12 @@
 
 # Cheat Sheets recopilation
 
+<div id="table-of-contents">
+ 
 
-* Python
+        
+<li><a>Python</a>  
+
 <ul> 
         <li><a href="#orgheadline1">Python for Data Science</a></li>
         <li><a href="#orgheadline2">Pandas</a></li>
@@ -46,7 +50,7 @@
 <ul> 
         <li><a href="#orgheadline19">PySpark</a></li>
 </ul>
-
+</div>
 
 
 ## Python
