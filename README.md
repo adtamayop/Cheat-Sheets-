@@ -6,7 +6,6 @@
 
         
 <li><a>Python</a>  
-
 <ul> 
         <li><a href="#orgheadline1">Python for Data Science</a></li>
         <li><a href="#orgheadline2">Pandas</a></li>
@@ -17,8 +16,7 @@
 </ul>
 
 
-
-* Visualization
+<li><a>Visualization</a>  
 <ul> 
         <li><a href="#orgheadline7">Bokeh</a></li>
         <li><a href="#orgheadline8">Matplotlib</a></li>
@@ -27,8 +25,7 @@
 </ul>
 
 
-
-* Machine Learning
+<li><a>Machine Learning</a>  
 <ul> 
         <li><a href="#orgheadline11">Algorithm scikit</a></li>
         <li><a href="#orgheadline12">Scikit</a></li>
@@ -37,7 +34,7 @@
 </ul>
 
     
-* Deep Learning
+<li><a>Deep Learning</a>
 <ul> 
         <li><a href="#orgheadline15">Neural Networks</a></li>
         <li><a href="#orgheadline16">Neural Networks Graphs</a></li>
@@ -46,7 +43,7 @@
 </ul>
 
 
-* Big Data
+<li><a>Big Data</a>
 <ul> 
         <li><a href="#orgheadline19">PySpark</a></li>
 </ul>
